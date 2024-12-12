@@ -8,6 +8,8 @@
 
 This repository contains a custom implementation of a multilayer perceptron neural network built from the ground up using Python. The project uses the MNIST handwritten digit dataset to train and evaluate the network. It aims to provide a thorough understanding of both the mathematical foundations and code implementations of neural networks.
 
+**Disclaimer:** This code is largely not my own. I have adapted it slightly to my own style, but the majority of the code is from the YouTube video [Building a neural network FROM SCRATCH (no Tensorflow/Pytorch, just numpy & math)](https://www.youtube.com/watch?v=w8yWXqWQYmU&t=640s&ab_channel=SamsonZhang) by Samson Zhang. It's a fantastic resource for those wanting to learn more about neural networks, and was a huge help for me in developing this project. 
+
 ## Repository Contents
 
 ### 1. **MathBehindNeuralNetworks.pdf**
