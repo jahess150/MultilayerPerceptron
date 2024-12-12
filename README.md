@@ -31,9 +31,9 @@ This notebook provides a hands-on implementation of the concepts outlined in the
 
 Feel free to reach out with questions or suggestions:
 
-- **GitHub**: [Your GitHub Profile](https://github.com/jahess150)
-- **Email**: [Your Email Address](mailto:jahess150@gmail.com)
-- **LinkedIn**: [Your LinkedIn Profile]([https://linkedin.com/in/jahess150](https://www.linkedin.com/in/joshua-hess-5748b8173/))
+- **GitHub**: [jahess150](https://github.com/jahess150)
+- **Email**: [jahess150@gmail.com](mailto:jahess150@gmail.com)
+- **LinkedIn**: [Joshua Hess]([https://linkedin.com/in/jahess150](https://www.linkedin.com/in/joshua-hess-5748b8173/))
 
 ---
 
